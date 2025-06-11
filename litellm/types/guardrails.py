@@ -29,6 +29,7 @@ class SupportedGuardrailIntegrations(Enum):
     HIDE_SECRETS = "hide-secrets"
     AIM = "aim"
     PANGEA = "pangea"
+    PRISMA_AIRS = "prisma_airs"
 
 
 class Role(Enum):
